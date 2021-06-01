@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\NYT Bot1.exe
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\NYT Bot1.deps.json
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\NYT Bot1.runtimeconfig.json
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\NYT Bot1.runtimeconfig.dev.json
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\NYT Bot1.dll
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\NYT Bot1.pdb
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.AssemblyInfo.cs
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.csproj.CopyComplete
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.dll
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.pdb
+D:\Visual Studio Projects\NYT Bot git\NYT Bot1\NYT Bot1\obj\Debug\netcoreapp3.1\NYT Bot1.genruntimeconfig.cache
